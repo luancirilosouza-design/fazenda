@@ -1,0 +1,10 @@
+export { default as IDField } from './IDField'
+export { default as NomeField } from './NomeField'
+export { default as NumeroCarEstadualField } from './NumeroCarEstadualField'
+export { default as IEField } from './IEField'
+export { default as CEPField } from './CEPField'
+export { default as AreaTotalField } from './AreaTotalField'
+export { default as AreaPlantadaField } from './AreaPlantadaField'
+export { default as MapaFazendaField } from './MapaFazendaField'
+export { default as ObservacoesField } from './ObservacoesField'
+// (depois vamos adicionar LocalizacaoField, AreaField, etc.)
